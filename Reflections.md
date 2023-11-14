@@ -1,0 +1,3 @@
+# Reflections
+
+I hated this. I'm trying to learn/appreciate javascript, and the thing I've learned most from this is that I will never, ever, use javascript as a backend framework. Certainly not websockets from javascript at the very least. Learning that it supported SOAP protocol was the last straw, ancient, archaic protocol. Aside from that, certainly had fun using docker to orchestrate multiple images in tandem with one another for inter-communication. I will definitely be taking that skillset into future projects. And vue, I am growing vaguely fond of vue as a frontend framework. However I will not be a happy person designing frontend systems ever. Not my thing. 
